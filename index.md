@@ -5,7 +5,7 @@
 layout: default
 ---
 
-The IdentityPython is a bundle of projects that provide implementation of
+The IdentityPython is a set of projects that provide implementation of
 key federation and identity technologies including OpenID Connect, SAML,
 xmldsig, OAuth, JWT, etc -- all implemented in Python.
 

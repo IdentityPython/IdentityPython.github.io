@@ -14,3 +14,5 @@ projects are being considered for initial inclusion in Identity Python:
 * pyXMLSecurity
 * pyFF
 * pyJWT
+
+Follow these projects on [GitHub](https://github.com/IdentityPython)

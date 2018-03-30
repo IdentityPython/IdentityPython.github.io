@@ -12,7 +12,7 @@ projects are included in Identity Python:
 * [SaToSa](https://github.com/IdentityPython/SATOSA)
 * [pyXMLSecurity](https://github.com/IdentityPython/pyXMLSecurity)
 * [pyFF](https://github.com/IdentityPython/pyFF)
-* pyeleven 
+* [pyeleven](https://github.com/IdentityPython/pyeleven) 
 
 Other projects are still under [consideration](https://github.com/IdentityPython/IdentityPython.github.io/wiki/Adding-and-Removing-Software-Projects-to-idpy):
 * pyOIDC

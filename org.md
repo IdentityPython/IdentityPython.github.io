@@ -4,8 +4,10 @@ title: Organization
 permalink: /organization/
 ---
 
-The IdentityPython project is in the process of establishing a presence in the
+The IdentityPython project exists under the umbrella of the 
 [Commons Conservancy](http://commonsconservancy.org). 
+
+IdentityPython governing statutes are available [here](https://dracc.commonsconservancy.org/0024/).
 
 Current Board Members:
 

@@ -14,7 +14,7 @@ projects are included in Identity Python:
 * [pyFF](https://github.com/IdentityPython/pyFF)
 * [pyeleven](https://github.com/IdentityPython/pyeleven) 
 
-Other projects are still under [consideration](https://github.com/IdentityPython/IdentityPython.github.io/wiki/Adding-and-Removing-Software-Projects-to-idpy):
+Other projects are still under [consideration](https://dracc.commonsconservancy.org/0025/):
 * pyOIDC
 * pyJWT
 

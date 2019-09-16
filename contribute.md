@@ -12,4 +12,6 @@ that you [can join](https://join.slack.com/t/identity-python/shared_invite/enQtN
 
 Participation in all Identity Python projects is govered by our [Note Well](https://github.com/IdentityPython/Governance/blob/master/Note-Well.md).
 
+To report security vulnerabilities, please see our [Security Incident Response](https://github.com/IdentityPython/Governance/blob/master/idpy-incidentresponse.md) process. 
+
 To subscribe to the list go to [https://lists.sunet.se/listinfo/idpy-discuss](https://lists.sunet.se/listinfo/idpy-discuss). To send messages to the list address [discuss@idpy.org](mailto:discuss@idpy.org)

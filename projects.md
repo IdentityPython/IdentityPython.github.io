@@ -13,6 +13,6 @@ projects are included in Identity Python:
 * [pyXMLSecurity](https://github.com/IdentityPython/pyXMLSecurity)
 * [pyFF](https://github.com/IdentityPython/pyFF)
 * [pyeleven](https://github.com/IdentityPython/pyeleven) 
-
+* [JWT Connect Python](https://jwtconnect.io/)
 
 Follow these projects on [GitHub](https://github.com/IdentityPython)

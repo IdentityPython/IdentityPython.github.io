@@ -14,6 +14,12 @@ GitHub’s guidance on managing these types of vulnerabilities.
 
 ## FAQ
 
+- How can I report a security vulnerability?
+
+  Anyone can submit a potential security vulnerability to
+  `incident-response@idpy.org`. The incident-response team will verify the
+  issue and contact you on how this will be handled.
+
 - Are CVEs created for each security vulnerability?
 
   Yes. Each vulnerability that is reported and verified is assigned a CVE
@@ -66,7 +72,7 @@ GitHub’s guidance on managing these types of vulnerabilities.
   Upgrade to the latest version. At this point, IdentityPython does not have
   the resources required to provide backports of security issues or other
   fixes. We urge the community to try to keep up with the latest version. The
-  organization advocates FOSS and is open to new colaborators. Since,
+  organization advocates FOSS and is open to new collaborators. Since,
   everything is open, users are free to backport patches on their own.
 
 

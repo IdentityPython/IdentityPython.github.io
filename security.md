@@ -78,9 +78,10 @@ GitHub’s guidance on managing these types of vulnerabilities.
 
 ## List of published security advisories
 
-- CVE-2021-21239 - PySAML2 - To be announced on 2021/01/20
-- CVE-2021-21238 - PySAML2 - To be announced on 2021/01/20
-- [CVE-2020-5390] - PySAML2 - Improper Verification of Cryptographic Signature
+- [CVE-2021-21239] - PySAML2: Unspecified xmlsec1 key-type preference
+- [CVE-2021-21238] - PySAML2: Processing of invalid SAML XML documents
+- [CVE-2020-5390] - PySAML2: Improper Verification of Cryptographic Signature
+- [CVE-2017-1000246] - PySAML2: Always generate a random IV for AES operations
 
 
   [idpy-incident-response]: https://github.com/IdentityPython/Governance/blob/master/idpy-incidentresponse.md
@@ -91,4 +92,7 @@ GitHub’s guidance on managing these types of vulnerabilities.
   [gh-sec-advisories]: https://docs.github.com/en/github/managing-security-vulnerabilities/about-github-security-advisories
   [gh-watch-individual]: https://docs.github.com/en/github/managing-subscriptions-and-notifications-on-github/viewing-your-subscriptions#configuring-your-watch-settings-for-an-individual-repository
 
+  [CVE-2017-1000246]: https://github.com/advisories/GHSA-cq94-qf6q-mf2h
   [CVE-2020-5390]: https://github.com/advisories/GHSA-qf7v-8hj3-4xw7
+  [CVE-2021-21238]: https://github.com/IdentityPython/pysaml2/security/advisories/GHSA-f4g9-h89h-jgv9
+  [CVE-2021-21239]: https://github.com/IdentityPython/pysaml2/security/advisories/GHSA-5p3x-r448-pc62

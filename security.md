@@ -85,7 +85,7 @@ GitHub’s guidance on managing these types of vulnerabilities.
 
 
   [idpy-incident-response]: https://github.com/IdentityPython/Governance/blob/master/idpy-incidentresponse.md
-  [idpy-ml]: https://lists.sunet.se/listinfo/idpy-discuss
+  [idpy-ml]: https://lists.sunet.se/postorius/lists/idpy-discuss.lists.sunet.se/
   [idpy-slack]: https://identity-python.slack.com
   [idpy-slack-invite]: https://join.slack.com/t/identity-python/shared_invite/enQtNzEyNjU1NDI1MjUyLTM2MWI5ZGNhMTk1ZThiOTIxNWY2OTY1ODVmMWNjMzUzMTYxNTY5MzE5N2RlYjExZTIyM2MwYjBjZGE4MGVlMTM
 

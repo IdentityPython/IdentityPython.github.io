@@ -10,10 +10,9 @@ projects are included in Identity Python:
 
 * [pySAML2](https://github.com/IdentityPython/pysaml2)
 * [SaToSa](https://github.com/IdentityPython/SATOSA)
-* [pyXMLSecurity](https://github.com/IdentityPython/pyXMLSecurity)
 * [pyFF](https://github.com/IdentityPython/pyFF)
-* [pyeleven](https://github.com/IdentityPython/pyeleven) 
-* [oidcendpoint](https://github.com/IdentityPython/oidcendpoint)
 * [JWT Connect Python](https://jwtconnect.io/)
+* [idpy-oidc](https://github.com/IdentityPython/idpy-oidc) and associated libraries
+* [djangosaml2](https://github.com/IdentityPython/djangosaml2)
 
 Follow these projects on [GitHub](https://github.com/IdentityPython)

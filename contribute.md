@@ -10,7 +10,7 @@ IdPy has multiple communication channels;
 - the [IdPy slack workspace][idpy-slack] ([invitation][idpy-slack-invite])
 - and project-specific mailing lists
 
-Participation in all Identity Python projects is govered by our [Note Well](https://github.com/IdentityPython/Governance/blob/master/Note-Well.md).
+Participation in all Identity Python projects is govered by our [Note Well](https://github.com/IdentityPython/Governance/blob/master/Note-Well.md). Expectations regarding code submission and request for project adoption are found in our (Projects)[https://github.com/IdentityPython/Governance/blob/master/idpy-projects.md] page.
 
 To report security vulnerabilities, please see our [Security Incident Response](https://github.com/IdentityPython/Governance/blob/master/idpy-incidentresponse.md) process.
 
